@@ -6,8 +6,10 @@
                 2. 若它的右子树不空，则右子树上所有节点的值均大于它的根节点的值； 
                 3. 它的左右子树也分别为二叉排序树。
            比如下图就是一棵普通的二叉排序树： 
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190916203115100.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3oyMjAxOTg2MTEz,size_16,color_FFFFFF,t_70)
-           如果按照中序遍历的顺序，一棵二叉排序树的输出结果就刚好是按照从小到大的顺序输出的，可以运用于二分算法。
+           
+	   如果按照中序遍历的顺序，一棵二叉排序树的输出结果就刚好是按照从小到大的顺序输出的，可以运用于二分算法。
 
 
           
